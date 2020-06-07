@@ -16,7 +16,7 @@
     "kraken-exchange-api": "^0.2.5",
     "lodash": "^4.17.4",
     "node-telegram-bot-api": "^0.27.1",
-    "node.bittrex.api": "^0.4.3",
+    "node.bittrex.api": "^1.0.0",
     "poloniex-api-node": "^1.3.1",
     "promise": "^8.0.1"
   },
