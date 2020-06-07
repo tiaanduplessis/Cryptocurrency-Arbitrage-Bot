@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "bitfinex-api-node": "^1.0.2",
-    "gdax": "^0.4.2",
+    "gdax": "^0.9.0",
     "kraken-api": "git+ssh://git@github.com/nothingisdead/npm-kraken-api.git",
     "kraken-exchange-api": "^0.2.5",
     "lodash": "^4.17.4",
